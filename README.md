@@ -1,2 +1,2 @@
-# Statistika_Jazyk_R-SAV-Zaklady
+# Štatistika Jazyk R - SAV - Základy
 Materiály ku kurzu Štatistika v R - Základy
