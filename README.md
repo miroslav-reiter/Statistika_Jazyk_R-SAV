@@ -2,9 +2,9 @@
 Materiály ku kurzu Štatistika v R
 
 ## Čo je to R?
-R je voľne šíriteľný softvérový nástroj pre štatistické výpočty a grafickú vizualizáciu. Týmto jediným písmenom sa označuje prostredie i programovací jazyk zároveň. Na kurze sa budeme venovať programovaniu v programovacom jazyku R ako aj niektorým základným štatistickým metódam.
+R je **voľne šíriteľný softvérový nástroj** pre štatistické výpočty a grafickú vizualizáciu. Týmto jediným písmenom sa označuje **prostredie** aj **programovací jazyk** zároveň. Na kurze sa budeme venovať programovaniu v programovacom jazyku R ako aj niektorým základným štatistickým metódam.
 
-## Čo nás čaká a neminie(osnova kurzu):
+## Čo nás čaká a neminie (osnova kurzu):
 1. Základné informácie  
   Úvod do R  
   Inštalácia R, RStudio  
